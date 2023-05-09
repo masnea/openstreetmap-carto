@@ -7,8 +7,8 @@
 @accommodation-icon: @transportation-icon;
 @accommodation-text: @transportation-text;
 @airtransport: #bdbbbf; //also ferry_terminal
-@health-color: #a3a0a0;
-@amenity-brown: #aba9a7;
+@health-color: #6e6d6b;
+@amenity-brown: #6e6d6b;
 @gastronomy-icon: #b3b1af;
 @gastronomy-text: darken(@gastronomy-icon, 5%);
 @memorials: @amenity-brown;
@@ -24,7 +24,7 @@
 @aboriginal: #b3b0ad;
 @religious-icon: #858282;
 
-@landcover-font-size: 10;
+@landcover-font-size: 8;
 @landcover-wrap-width-size: 30; // 3 em
 @landcover-line-spacing-size: -1.5; // -0.15 em
 @landcover-font-size-big: 12;
